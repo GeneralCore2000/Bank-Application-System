@@ -1,4 +1,3 @@
-//jeqiwjei8qwejioqwjoiexml,fmxsklfmxlkfjkljdsfklwqoiewqioeiop
 package com.mycompany.bankapplicationsystem;
 
 public class BankApplicationSystem {
